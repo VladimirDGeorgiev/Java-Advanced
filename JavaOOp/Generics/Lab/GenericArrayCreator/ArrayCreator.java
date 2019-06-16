@@ -11,7 +11,7 @@ public class  ArrayCreator {
         }
         return (T[])arr;
     }
-    public static <T> T[] create(Class<T> cl,T item, int lenght){
+    public static <T> T[] create(Class<T> cl, int lenght,T item){
         T[] arr = (T[])  Array.newInstance(cl,lenght);
         for (int i = 0; i <arr.length ; i++) {
             arr[i]=item;

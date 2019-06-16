@@ -1,5 +1,6 @@
 package JavaOOp.Generics.Lab.ListUtilities;
 
+import java.util.Collections;
 import java.util.List;
 
 public class ListUtils<T> {
@@ -11,6 +12,7 @@ public class ListUtils<T> {
              max=list.get(i);
          }
      }
+     //return Collections.max(list);
      return max;
  }public static<T extends Comparable<T>> T getMin(List<T> list){
         if (list.size()==0) throw new IllegalArgumentException();
@@ -20,6 +22,7 @@ public class ListUtils<T> {
              min=list.get(i);
          }
      }
+        //return Collections.mix(list);
      return min;
  }
 }

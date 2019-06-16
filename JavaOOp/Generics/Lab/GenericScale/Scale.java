@@ -1,6 +1,6 @@
 package JavaOOp.Generics.Lab.GenericScale;
 
-public class Scale<T extends Comparable> {
+public class Scale<T extends Comparable<T>> {
  private T left;
  private T right;
 

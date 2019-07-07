@@ -1,0 +1,23 @@
+package JavaOOp.L05Encapsulation.Exercises.p04PizzaCalories;
+
+public  enum DoughModifiers {
+    White(1.5)
+    , Wholegrain(1.0)
+    , Crispy(0.9)
+    , Chewy(1.1)
+    , Homemade(1.0);
+
+    private double value;
+
+    public double getValue() {
+        return value;
+    }
+
+    DoughModifiers(double value) {
+        this.value = value;
+    }
+
+    public void setValue(double value) {
+        this.value = value;
+    }
+}

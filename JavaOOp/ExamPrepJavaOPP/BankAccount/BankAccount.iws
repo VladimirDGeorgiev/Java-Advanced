@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c68dbaa5-fb47-4ead-a77e-48c58bbaf7e4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bankAccount/BankAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="50" column="49" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/bankAccount/BankAccountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="83" column="70" selection-start-line="83" selection-start-column="70" selection-end-line="83" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/bankAccount/BankAccountTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BankAccount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankAccount" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BankAccountTest">
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.withdrawShouldDecreaceTheAmauntWithThisValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="METHOD_NAME" value="withdrawShouldDecreaceTheAmauntWithThisValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.withdrawShouldReturnBigDecimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="METHOD_NAME" value="withdrawShouldReturnBigDecimal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="METHOD_NAME" value="withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.withdrawShouldThrowExceptionIfWithDrawIsLessThen0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.BankAccountTest" />
+      <option name="METHOD_NAME" value="withdrawShouldThrowExceptionIfWithDrawIsLessThen0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankAccountTest" />
+        <item itemvalue="JUnit.BankAccountTest.withdrawShouldDecreaceTheAmauntWithThisValue" />
+        <item itemvalue="JUnit.BankAccountTest.withdrawShouldReturnBigDecimal" />
+        <item itemvalue="JUnit.BankAccountTest.withdrawShouldThrowExceptionIfWithDrawIsLessThen0" />
+        <item itemvalue="JUnit.BankAccountTest.withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c68dbaa5-fb47-4ead-a77e-48c58bbaf7e4" name="Default Changelist" comment="" />
+      <created>1565094641125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565094641125</updated>
+      <workItem from="1565094642536" duration="1779000" />
+      <workItem from="1565324834768" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BankAccountTest_constructorShouldWorkCorrectlyWith25Lenght - 2019.08.06 at 15h 45m 46s.xml">
+      <configuration name="BankAccountTest.constructorShouldWorkCorrectlyWith25Lenght" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest_depositShouldThrowExceptionIfValueIsLessThen1 - 2019.08.06 at 15h 48m 38s.xml">
+      <configuration name="BankAccountTest.depositShouldThrowExceptionIfValueIsLessThen1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest_depositShouldWorkCorrenct - 2019.08.06 at 15h 50m 49s.xml">
+      <configuration name="BankAccountTest.depositShouldWorkCorrenct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest_withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount - 2019.08.06 at 15h 53m 31s.xml">
+      <configuration name="BankAccountTest.withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest_withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount - 2019.08.06 at 15h 53m 39s.xml">
+      <configuration name="BankAccountTest.withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest_withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount - 2019.08.06 at 15h 53m 46s.xml">
+      <configuration name="BankAccountTest.withdrawShouldThrowExceptionIfValueWithdrawIsMoreThenAmaount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest_withdrawShouldThrowExceptionIfWithDrawIsLessThen0 - 2019.08.06 at 15h 54m 31s.xml">
+      <configuration name="BankAccountTest.withdrawShouldThrowExceptionIfWithDrawIsLessThen0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest_withdrawShouldReturnBigDecimal - 2019.08.06 at 15h 56m 00s.xml">
+      <configuration name="BankAccountTest.withdrawShouldReturnBigDecimal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest_withdrawShouldDecreaceTheAmauntWithThisValue - 2019.08.06 at 15h 56m 58s.xml">
+      <configuration name="BankAccountTest.withdrawShouldDecreaceTheAmauntWithThisValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2019.08.06 at 15h 57m 03s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49912128" visible="true" weight="0.17114094" />
+      <window_info id="Structure" order="6" sideWeight="0.50087875" side_tool="true" weight="0.23087248" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="1" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.53489935" side_tool="true" weight="0.26770538" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.4986577" weight="0.11331445" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.4966443" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.46510068" weight="0.1203966" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.46308726" weight="0.2875354" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.4966443" weight="0.3286119" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="227" column="13" selection-start-line="227" selection-start-column="13" selection-end-line="227" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bankAccount/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="50" column="49" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bankAccount/BankAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="83" column="70" selection-start-line="83" selection-start-column="70" selection-end-line="83" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11 (4)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

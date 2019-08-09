@@ -4,10 +4,6 @@ import entities.interfaces.Fighter;
 
 public class FighterImpl extends BaseMachine implements Fighter {
 
-
-
-
-
     private boolean aggressiveMode;
 
 
